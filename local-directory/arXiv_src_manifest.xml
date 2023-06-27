@@ -1,0 +1,16 @@
+<?xml version='1.0' standalone='yes'?>
+<arXivSRC>
+  <file>
+    <content_md5sum>3f2743efd4b1351e2b1bada73b0f830d</content_md5sum>
+    <filename>src/arXiv_src_9912_001.tar</filename>
+    <first_item>adap-org9912001</first_item>
+    <last_item>solv-int9912016</last_item>
+    <md5sum>fb6b0f55935636c4d92445e1f4d47391</md5sum>
+    <num_items>2593</num_items>
+    <seq_num>1</seq_num>
+    <size>233445958</size>
+    <timestamp>2010-12-23 00:09:20</timestamp>
+    <yymm>9912</yymm>
+  </file>
+  <timestamp>Wed Jun  7 06:32:38 2023</timestamp>
+</arXivSRC>
