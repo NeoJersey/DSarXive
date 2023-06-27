@@ -1,18 +1,16 @@
 [tool.poetry]
-name = "dsarxive"
+name = "DSarXiv"
 version = "0.1.0"
 description = ""
 authors = ["Jersey <jerseyliu228@gmail.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
 openai = "^0.27.8"
 python-dotenv = "^1.0.0"
 
-[tool.poetry.dev-dependencies]
-ipykernel = "^6.23.3"
+
 [build-system]
-requires = ["poetry-core>=1.0.0"]
+requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-
-
