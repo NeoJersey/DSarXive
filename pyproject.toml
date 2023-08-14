@@ -10,6 +10,11 @@ python = "^3.11"
 python-dotenv = "^1.0.0"
 openai = "^0.27.8"
 elsapy = "^0.5.1"
+pandas = "^2.0.3"
+beautifulsoup4 = "^4.12.2"
+lxml = "^4.9.3"
+pylatexenc = "^2.10"
+latexcodec = "^2.0.1"
 
 
 [tool.poetry.group.dev.dependencies]
